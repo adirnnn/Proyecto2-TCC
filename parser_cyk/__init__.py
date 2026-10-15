@@ -1,1 +1,2 @@
-"""Simplificación de gramáticas a CNF y parsing con CYK."""
+# paquete del proyecto: gramatica.py (representacion), cnf.py (conversion)
+# y cyk.py (algoritmo de parsing con programacion dinamica)
